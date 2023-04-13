@@ -1,0 +1,50 @@
+h1{
+    border: 2px solid; background: skyblue;
+}
+.wrapper{
+    width: 40%;
+    margin: 0 auto;
+    border: 2px solid;
+    background: skyblue;
+}
+label{
+    font-size: 20px;
+}
+.First_Name, .Last_Name, .email, .password
+{
+    width:60%;
+    height: 5px;
+    padding:8px;
+    font-size:15px;
+    background: #ddd;
+}
+.comment{
+    width: 60%;
+    font-size: 18px;
+    padding: 8px;
+    background: #ddd;
+}
+table{
+    width: 40%;
+    border:1px solid black;
+    background: skyblue;
+}
+td {
+    width: 40%;
+    font-size: 12px;
+    text-align: center;
+    border: 1px solid black;
+    background:#ddd;
+
+} 
+th {
+    width: 40%;
+    font-size: 15px;
+    text-align: center;
+    border: 1px solid black;
+}
+.center {
+     width: 40%;
+    margin: 0 auto;
+    text-align: center;
+}
